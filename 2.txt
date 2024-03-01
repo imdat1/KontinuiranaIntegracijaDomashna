@@ -1,4 +1,4 @@
 Just a second file!
 
 Making changes to the 2nd file for the Develop branch!
-This change is made by Jovan Simonoski
+This is a change made by Jovan Simonoski
